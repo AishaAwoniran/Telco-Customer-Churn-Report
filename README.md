@@ -91,5 +91,5 @@ Customer churn is primarily driven by:
 
 <img width="1066" height="596" alt="Page three 3" src="https://github.com/user-attachments/assets/81332143-10e8-4700-b755-16c81f2474c0" />
 
-###Live Dashboard
-<https://app.powerbi.com/links/wqry_qDra1?ctid=a36e1a13-c829-4154-8635-f2516711db50&pbi_source=linkShare />
+### Live Dashboard
+[view Telco-Customer Churn report in power BI](https://app.powerbi.com/links/wqry_qDra1?ctid=a36e1a13-c829-4154-8635-f2516711db50&pbi_source=linkShare)
